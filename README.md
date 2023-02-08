@@ -4,9 +4,6 @@
 
 ### About
 
-Website for posting notices or any other information by college/school teachers/professors for the students. Written in Django
-
-
 
 ## How to setup
 
@@ -18,8 +15,6 @@ Website for posting notices or any other information by college/school teachers/
 
 3. Create a Python virtual environment and install Python and Django related dependencies.
 
-    ```shell
-    cd noticeboard
     virtualenv venv # create virtual env
     venv\scripts\activate  # run this command everytime before starting on the project
  
